@@ -1,0 +1,2 @@
+# jabble
+Jabble is a command-line Jabber/XMPP chat client, with private messages, group chat, service discovery, file transfert using proxy. Written in C, it was succesfully run on GNU/Linux, Windows, FreeBSD, AtheOS, BeOS, GNU/Hurd. It crashed on QNX. I wrote it in 2006 when learning C, at the time Jabber servers doesn't require encryption so it doesn't connect anymore. The goal is to enable encryption !
